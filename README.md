@@ -1,6 +1,6 @@
 LearnHIGH is a comprehensive learning platform that fosters academic excellence through expert-led courses and interactive workshops. Our mission is to provide up-to-date educational content, helping students and professionals acquire in-demand skills.
 
-Project Demo URL: https://befashion1.z23.web.core.windows.net/
+Project Demo URL: https://saikiranreddy1628.github.io/LearnHIGH/
 
 Demo Video URL: https://youtu.be/_UFe8MqnZKE
 
