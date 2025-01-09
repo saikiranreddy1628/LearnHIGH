@@ -4,7 +4,7 @@ Project Demo URL: https://befashion1.z23.web.core.windows.net/
 
 Demo Video URL: https://youtu.be/_UFe8MqnZKE
 
-GitHub Repository URL: https://github.com/saikiranreddy1628/Azureproject.git
+GitHub Repository URL: https://github.com/saikiranreddy1628/LearnHIGH
 
 Industry: Education
 
