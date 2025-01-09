@@ -16,7 +16,6 @@ Sharath (Deployment): Deployment and maintenance of project infrastructure.
 
 Archana (Documentation): Responsible for managing the documentation process.
 
-Kalyani (Presentation): Responsible for managing the Presentation process.
 
 Azure services used:
 
